@@ -27,5 +27,6 @@ html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
 
 # extensions = ['recommonmark','sphinx_markdown_tables']
-extensions = ['myst_parser','rst2pdf.pdfbuilder','sphinx.ext.autosectionlabel']
+extensions = ['myst_parser','sphinx.ext.autosectionlabel']
 autosectionlabel_prefix_document = True
+
