@@ -1,9 +1,5 @@
-Template for the Read the Docs tutorial
+tda-xdh-doc
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+tda-xdh-doc
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
